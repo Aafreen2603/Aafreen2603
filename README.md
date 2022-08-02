@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aafreen2603
 - 👀 I’m interested in Data Analysis, Machine Learning and Graphic Designing.
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate on Data Analysis, Machine Learning and Deep Learning projects.
+- 👯 I’m looking to collaborate on Data Analysis, Machine Learning and Deep Learning projects.
 - 📫 How to reach me: aafreensingh03@gmail.com
 
 <!---
