@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 👋 Hi there! 
-Welcome to my GitHub profile! I'm @Aafreen2603, a final year student pursuing B.E. in Electronics and Computer at Thapar Institute of Engineering and Technology. I'm thrilled to have you here as I dive into the exciting world of Data Science.
+Welcome to my GitHub profile! I'm Aafreen Singh, a final year student pursuing B.E. in Electronics and Computer at Thapar Institute of Engineering and Technology. 
+I'm thrilled to have you here as I dive into the exciting world of Technology!
 
 ### 🌙 About Me
 I am a final year student, majoring in Electronics and Computer Engineering. I possess a strong drive to develop both my interpersonal and technical abilities. I'm committed to honing my skills to seize any opportunities that come my way. With a keen interest in the field of Data Science, I'm eager to gain industry experience and further develop my knowledge in this area.
